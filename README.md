@@ -13,6 +13,7 @@
 - ✅ **100%向后兼容** - v1.0功能完全保留
 
 **[快速开始 v2.0 →](README_v2.0.md)** | **[完整升级指南 →](UPGRADE_GUIDE_v2.0.md)**
+<img width="2752" height="1536" alt="Gemini_Generated_Image_mk2o2smk2o2smk2o" src="https://github.com/user-attachments/assets/6bd8776f-65b7-4a1f-b875-bd5854d8fc8f" />
 
 ## 🎯 项目定位
 
